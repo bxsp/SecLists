@@ -2553,7 +2553,6 @@ will
 xhtml
 xtFramework
 yabb
-}
 18
 products_id
 respond
@@ -8781,8 +8780,6 @@ WebCapture
 WebMail
 WebModules
 WebZIP
-[
-plain]
 _Archive
 _Controls
 _articles
@@ -9630,7 +9627,6 @@ what-we-do
 whats-new
 whm
 widerruf
-Användare
 Brukerdiskusjon
 wj
 worldwide
@@ -11332,7 +11328,6 @@ White
 WishList
 XXpafaq
 YUI
-]
 _Resources
 _Templates
 __ErrFiles__
@@ -20095,7 +20090,6 @@ page-1
 play-bet-and-win
 ppuser
 pueblo
-quote]
 rsshome
 rssthread
 rsszone
@@ -20647,7 +20641,6 @@ Andrea-Buzzi
 C-Mueller
 Carolin-Eibich
 ConVerve-GmbH
-Dirk-Müller
 EASY-SOFTWARE-AG
 Freiberufler-10
 Gabriela-Mair
@@ -20662,7 +20655,6 @@ Oliver-Hufer
 Peter-Askanazy
 Radimir-Racic
 Ronny-Uhlemann
-Thomas-Schöll
 a-w
 dirk-mueller-1
 dirk-mueller-2
@@ -23997,7 +23989,6 @@ erosguide
 erotik
 err404
 errlog
-error_log
 error_report
 errorhandler
 errpage
@@ -24083,7 +24074,6 @@ expressen
 expressions
 extender
 extens
-extension]
 external-links
 external_content
 externos
@@ -29860,7 +29850,6 @@ SWNAV_ADMIN
 TemplateDesigner
 Unsere-AGB-s
 ViewData-Start
-[0-9]
 _shared_content
 adams
 addReview
@@ -30283,8 +30272,6 @@ featured-art
 2062
 2065
 206rvd2nxg
-20[0-9][0-9]
-[0-1][0-9]
 20thcentury
 2101
 210hix8own
@@ -31381,7 +31368,6 @@ Custreg
 Cutesoft_Client
 CyberStats
 Cycling
-C�pia
 D-Link
 D9RepSeals
 DAWSON
@@ -31935,7 +31921,6 @@ Fusion
 FusionMaps
 Fussball-de
 Futbol
-Fürstenwalde 
  Storkow
 G15
 G2
@@ -32366,7 +32351,6 @@ JumpTo
 Jupiter
 Justine
 Juventud
-Jüterbog 
  Luckenwalde
 KAYAK
 KDEWebSite
@@ -34441,8 +34425,6 @@ Zip
 ZipCode
 Zoek
 Zombaio_Data
-[2]
-^[0-9]
 _09wbad
 _1
 _2010
@@ -42926,7 +42908,6 @@ encina
 encnet
 encoding
 encore
-Hervé_Taïeb
 91471
 endeavor
 endnote
@@ -58312,7 +58293,6 @@ wien
 wik
 BadContent
 Francisco_Franco
-León_España
 TextSearch
 htmlets
 wikibase
